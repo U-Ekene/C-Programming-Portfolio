@@ -32,3 +32,7 @@ Each program directory typically contains:
 ### 🗺️ 04_map_grid_utilities
 **Concepts:** dynamic 2D arrays, pointer-to-pointer data structures,
 boundary checking, memory management
+
+### 📊 05_census_data_analysis
+**Concepts:** file I/O, CSV parsing, string tokenization,  
+dynamic memory allocation, data filtering and aggregation
