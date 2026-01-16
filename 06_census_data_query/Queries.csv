@@ -1,0 +1,6 @@
+Test1.csv,Saint John$Fredericton,1 4 8,90 91 92,N/A
+Test2.csv,Miramichi,N/A,N/A,N/A
+Test3.csv,Dieppe$Fredericton,1 4 8,1,>1000
+Test4.csv,Combined$Fredericton$Rothesay,11,50,N/A
+Test5.csv,N/A,1 2 3 4 5,1 2 3 4 5,>10000
+Test6.csv,N/A,N/A,N/A,10001
