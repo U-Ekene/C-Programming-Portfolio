@@ -36,3 +36,7 @@ boundary checking, memory management
 ### 📊 05_census_data_analysis
 **Concepts:** file I/O, CSV parsing, string tokenization,
 dynamic memory allocation, data filtering and aggregation
+
+### 📊 06_census_data_query
+**Concepts:** file I/O, CSV parsing, string tokenization,
+dynamic memory allocation, conditional data filtering
