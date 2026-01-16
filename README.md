@@ -34,5 +34,5 @@ Each program directory typically contains:
 boundary checking, memory management
 
 ### 📊 05_census_data_analysis
-**Concepts:** file I/O, CSV parsing, string tokenization,  
+**Concepts:** file I/O, CSV parsing, string tokenization,
 dynamic memory allocation, data filtering and aggregation
