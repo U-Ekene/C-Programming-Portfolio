@@ -40,3 +40,7 @@ dynamic memory allocation, data filtering and aggregation
 ### 📊 06_census_data_query
 **Concepts:** file I/O, CSV parsing, string tokenization,
 dynamic memory allocation, conditional data filtering
+
+### 🔁 07_recursion_intro
+**Concepts:** recursion, pointer arithmetic, dynamic memory allocation,
+2D arrays, sorting algorithms
