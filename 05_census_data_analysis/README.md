@@ -1,4 +1,4 @@
-## 📊 CSV Data Queries (C)
+## 📊 CSV Data Analysis (C)
 
 This program implements a set of C functions that read a CSV file and extract
 specific statistics using file I/O and manual parsing with strtok.
