@@ -44,3 +44,7 @@ dynamic memory allocation, conditional data filtering
 ### 🔁 07_recursion_intro
 **Concepts:** recursion, pointer arithmetic, dynamic memory allocation,
 2D arrays, sorting algorithms
+
+### 🦠 08_infection_spread_simulation
+**Concepts:** recursion, dynamic memory allocation, 2D grid traversal,
+file I/O, proximity-based modeling
