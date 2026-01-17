@@ -53,3 +53,8 @@ file I/O, proximity-based modeling
 **Concepts:** structs and composition, dynamic memory allocation,
 modular design across multiple source files, header files,
 pointer ownership, simple data modeling
+
+### 🌸 10_flower_shop_simulation
+**Concepts:** doubly linked lists, dynamic memory allocation,
+pointer ownership and lifecycle management, struct-based data modeling,
+file-driven command processing, modular design across multiple source files
