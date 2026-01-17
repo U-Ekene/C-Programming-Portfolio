@@ -48,3 +48,8 @@ dynamic memory allocation, conditional data filtering
 ### 🦠 08_infection_spread_simulation
 **Concepts:** recursion, dynamic memory allocation, 2D grid traversal,
 file I/O, proximity-based modeling
+
+### 🍽️ 09_restaurant_menu_system
+**Concepts:** structs and composition, dynamic memory allocation,
+modular design across multiple source files, header files,
+pointer ownership, simple data modeling
